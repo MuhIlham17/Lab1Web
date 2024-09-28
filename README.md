@@ -27,7 +27,7 @@
 ![Screenshot (183)](https://github.com/user-attachments/assets/335b31fb-9224-4b67-a5bf-fac8cdbcc725)
 
 8. Menambahkan gambar dengan perintag tag <img src=logo upb.jpeg widht="300" title="Univesitas Pelita Bangsa"
-![Screenshot (185)](https://github.com/user-attachments/assets/30f5e300-1b31-4e00-9d6a-a162134d9d55)
+![Screenshot (184)](https://github.com/user-attachments/assets/930ab8a1-607f-4c01-9c48-994b8d0d68f2)
 
 9. Membuat HyperLink dengan perintah tag <nav, <a href=""judul link" diakhiri dengan tag </nav, </a
 ![Screenshot (185)](https://github.com/user-attachments/assets/830921f5-7d17-4f86-9135-dbf702f23391)
