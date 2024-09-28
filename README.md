@@ -32,6 +32,14 @@
 9. Membuat HyperLink dengan perintah tag <nav, <a href=""judul link" diakhiri dengan tag </nav, </a
 ![Screenshot (185)](https://github.com/user-attachments/assets/830921f5-7d17-4f86-9135-dbf702f23391)
 
+10. Isi dari link Halaman 2
+![Screenshot (186)](https://github.com/user-attachments/assets/74dccc61-b3f8-4d4d-b640-c0c1c1ab2514)
+
+11. Isi dari link dasar_html
+![Screenshot 2024-09-29 001646](https://github.com/user-attachments/assets/d890a392-969e-4dd2-a6c1-0bfa45b26955)
+
+
+
 
 
 
