@@ -53,7 +53,7 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 2. jika <p digunakan untuk membuat paragraf baru, sedangkan br diginakan untuk merapihkan paragraf
 3. alt = Menyediakan teks alternatif yang akan ditampilkan jika gambar tidak bisa dimuat, atau ketika pengguna menggunakan screen reader.
    title = Menyediakan informasi tambahan yang muncul sebagai tooltip saat pengguna mengarahkan kursor ke gambar.
-4. boleh diisi atau tidak antara width dan height karena sebernarnya fungsi dari keduanya hampi sama sama untuk mengatur gambar
+4. boleh diisi atau tidak antara width dan height karena sebernarnya fungsi dari keduanya hampir sama sama untuk mengatur gambar
 5. _blank = Membuka link di tab atau jendela baru, _self=Membuka link di tab atau jendela yang sama (ini adalah nilai default), _top=Membuka link di seluruh jendela browser, menggantikan semua frame yang ada, _parent= Membuka link di frame induk (parent frame) dari frame saat ini.
    
 
