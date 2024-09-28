@@ -1,0 +1,14 @@
+<!DOCTYPE html> <!--Membuat isi pada halaman2-->>
+<html>
+<head>
+    <title>Biodata</title>
+</head>
+<body> 
+    <img src="ilham.jpg" width="100" title="Logo identitas diri"> 
+    <h1 align="center"> BIODATA DIRI </h1>
+       <h4> Nama        : Muh ILham Wahyu Fajar</h4>
+       <h4> Kelas       : TI.A2.23</h4>
+       <h4> NIM         : 312310208</h4>
+       <h4> Hobi        : Bermain PlayStation</h4>
+</html>
+       </body>
