@@ -20,14 +20,18 @@
 5. Membuat paaragraf baru lagi denan perintag tag <p diakhiri dengan tag </p
    ![Screenshot (181)](https://github.com/user-attachments/assets/1ac4ba26-e4a1-42a4-a5fb-0b4d8bb36617)
 
-6. Mmebuat paragraf menjadi rata tengan dengan perintah <align="center"
+6. Membuat paragraf menjadi rata tengan dengan perintah <align="center"
    ![Screenshot (182)](https://github.com/user-attachments/assets/d6610c46-e891-46c8-8af1-930424dbf81c)
 
-7. Menambahkan logo Universitas Pelita Bangsa dengan perintah <src img="logo upb.jpeg" widht 300 title="Logo Universitas Pelita Bangsa"
+7. Membuat judul "Menambahkan gambar" dengan tag <h3 diakhiri dengan tag </h3 
 ![Screenshot (183)](https://github.com/user-attachments/assets/335b31fb-9224-4b67-a5bf-fac8cdbcc725)
 
-8. Membuat HyperLink dnegan perintah tag <nav <a href diakhiri dengan tag </a dan </nav  
+8. Menambahkan gambar dengan perintag tag <img src=logo upb.jpeg widht="300" title="Univesitas Pelita Bangsa"
 ![Screenshot (185)](https://github.com/user-attachments/assets/30f5e300-1b31-4e00-9d6a-a162134d9d55)
+
+9. Membuat HyperLink dengan perintah tag <nav, <a href=""judul link" diakhiri dengan tag </nav, </a
+![Screenshot (185)](https://github.com/user-attachments/assets/830921f5-7d17-4f86-9135-dbf702f23391)
+
 
 
 
